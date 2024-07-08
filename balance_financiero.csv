@@ -1,0 +1,11 @@
+Concepto,Monto
+Total Ingresos,3500000.0
+Total Gastos,1450000.0
+Capacidad de Ahorro,2050000.0
+
+Transacciones del Mes Actual
+Fecha,Tipo,Monto,Descripción
+2024-07-07,ingreso,3000000.0,Salario
+2024-07-01,ingreso,500000.0,Venta artículos de ropa
+2024-07-02,gasto,1200000.0,Pago Arriengo
+2024-07-04,gasto,250000.0,Servicios Publicos
