@@ -13,6 +13,9 @@ Este proyecto es una aplicación de seguimiento de gastos personales. Permite a 
 2. Asegúrate de tener Python instalado.
 3. No se requieren bibliotecas adicionales más allá de las incluidas en la instalación estándar de Python.
 
+## Ver video explicativo
+https://www.youtube.com/watch?v=sM9WoWwVvfU
+
 ### Uso
 
 Para ejecutar la aplicación, simplemente ejecuta el archivo main_app.py:
